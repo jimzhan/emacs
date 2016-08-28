@@ -1,0 +1,8 @@
+# Compiled
+*.elc
+
+# Packaging
+.cask
+elpa
+auto-save-list
+site-lisp/*.el
