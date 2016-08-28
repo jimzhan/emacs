@@ -39,3 +39,4 @@
 ;;----------------------------------------------------------------------------
 (require 'init-editor)
 (require 'init-evil)
+(require 'init-neotree)
